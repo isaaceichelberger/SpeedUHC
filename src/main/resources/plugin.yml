@@ -1,0 +1,7 @@
+name: SpeedUHC
+version: 0.1
+main: me.isaaceichelberger.speeduhc.SpeedUHC
+commands:
+  kit:
+    usage: /kit
+    description: Select a kit with /kit
